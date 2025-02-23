@@ -13,7 +13,7 @@ Summarize the proposed changes and how they address the goal(s) stated above.
 ## Test Plan
 
 <!--
-Explain how you made sure that the changes are correct and that they perform as intended.
+Explain how you made sure that  changes are correct and that they perform as intended.
 
 Please describe testing protocols (CI, manual tests, benchmarks, etc) in a way that others
 can reproduce the results.
